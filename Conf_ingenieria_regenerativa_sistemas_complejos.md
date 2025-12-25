@@ -553,3 +553,44 @@ Haz click [aquí](https://github.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia
  <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
 
 <p>Esta licencia no aplica a enlaces a artículos, libros o imágenes no originales. Estos productos tienen su licencia correspondiente.</p>
+
+---
+
+
+
+
+
+
+
+## Estaré encantado de leer y de tener en cuenta tus comentarios sobre esta conferencia
+
+
+
+<style>
+#cusdis_thread {
+  max-width: 100%;
+  margin: 0 auto;
+}
+</style>
+
+<div id="cusdis_thread"
+     data-host="https://cusdis.com"
+     data-app-id="fcdc1c79-b0bd-4fde-b3ed-874d7f166442"
+     data-page-id="normas_IA"
+     data-page-url="https://aprendiendo-cosas.github.io/Conf_ingenieria_regenerativa_UPM/Conf_ingenieria_regenerativa_sistemas_complejos.html"
+     data-page-title="Conf_ingenieria_regenerativa_sistemas_complejos">
+</div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+
+<script>
+window.addEventListener('load', function () {
+    setTimeout(() => {
+        // Busca el iframe generado por Cusdis dentro del div con id "cusdis_thread"
+        let iframe = document.querySelector("#cusdis_thread iframe");
+        if (iframe && iframe.contentWindow && iframe.contentWindow.document && iframe.contentWindow.document.body) {
+            let scrollHeight = iframe.contentWindow.document.body.scrollHeight;
+            iframe.style.height = scrollHeight + "px";
+        }
+    }, 3000);
+});
+</script>
